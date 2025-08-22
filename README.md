@@ -141,6 +141,12 @@ Applied the following policy to `abdurrahman-cloudlaunch-site-bucket`:
 }
 ```
 
+## Credentials
+The IAM user credentials are stored securely here:  
+[Google Drive Link](https://docs.google.com/document/d/1gUY89xGrHg4SdmBC6O-JhGZrvawHR7ujoalJwz-lu9I/edit?usp=sharing)
+
+⚠️ Note: Credentials are temporary and require a password reset on first login.
+
 ### Bonus: CloudFront Distribution
 
 **Why I implemented CloudFront**:
