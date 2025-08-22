@@ -233,7 +233,11 @@ Applied the following policy to `abdurrahman-cloudlaunch-site-bucket`:
 - **Outbound Rules**: All traffic (default)
 
 **Project Author**: Abdurrahman Abolaji
+
 **StudentID**: ALT/SOE/024/2394
+
 **Submission Date**: 22nd August 2025  
+
 **AWS Region**: us-east-1  
+
 **Assignment**: AltSchool Cloud Engineering Third Semester Assignment 1
